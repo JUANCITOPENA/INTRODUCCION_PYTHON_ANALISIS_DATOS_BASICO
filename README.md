@@ -15,13 +15,15 @@ Este proyecto tiene como objetivo simular un conjunto de datos de ventas, analiz
 ### 2. Crear un Entorno Virtual
 Abre una terminal en Visual Studio Code y ejecuta:
 ```bash
-python -m venv venv
+python -m venv env
+
 ```
 
 ### 3. Activar el Entorno Virtual
 - En Windows:
 ```bash
-venv\Scripts\activate
+.\env\Scripts\activate
+
 ```
 
 
